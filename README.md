@@ -1,45 +1,50 @@
 # Creative Services Templates
+More detailed description will go here.
 
 
-There may be more I'm missing and probably is.
 
+## To Do List
+### Brandscapes
+- HTML templates  
+	- flash  
+	- non-flash  
+- CSS templates
+	- each site has specific css template
 
-Brandscapes
-HTML templates
-• flash
-• non-flash
-CSS templates
-• each site has specific css template
+### Pushdowns
+- specific templates for each site with first look tag
 
+### Outstanding Issues
+- FrontDoor.com
+	- onReady function
+	- separate call to swfObject on adimages
+	- no function calls inside onReady function for SWF
 
-Pushdowns
-• site specific templates
+- TravelChannel.com
+	- add class function 'brandscape' or 'pushdown'
+	- text-align:center;margin:0 auto;
 
-ISSUES - 
-FrontDoor.com
-• onReady function
-• separate call to swfObject on adimages 
-• no function calls inside onReady function for SWF
+### 300x600's
+- carousels (html & flash)
 
-TravelChannel.com
-• add class function 'brandscape' or 'pushdown'
-• text-align:center;margin:0 auto;
+### Product Modules
+- image carousels (site specific)
 
+### Sidescapes
+- Expanding 336x860's & 300x600's
+- iframe buster
 
-300x600's
-• carousels (html & flash)
-Product Modules
-• image carousels (site specific)
-Sidescapes
-Expanding 336x860's & 300x600's
-• iframe buster
+### Flash Video Template
 
+### Pushdown Template
 
-Flash Video Template
-Pushdown Template
-Overlays
-Billboards
-Hover
-• Flash
-• Non-flash
-Front Door Search Integration
+### Overlays
+
+### Billboards
+
+### Hover
+- Flash
+- Non-flash
+
+### Front Door Search Integration
+- Big deal.
