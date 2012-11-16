@@ -53,7 +53,7 @@
         if(e.success != true) {
           var div = document.getElementById("$FlightID$");
           // The Path and link for your image goes below, you can also set your image height and width
-          div.innerHTML = "<a href='{{MAIN_CLICKTAG}}'_blank'><img src='{{FLASH_FALLBACK_IMAGE}}' alt='Get Adobe Flash player' /></a>";
+          div.innerHTML = "<a href='{{MAIN_CLICKTAG}}' target='_blank'><img src='{{FLASH_FALLBACK_IMAGE}}' alt='Get Adobe Flash player' /></a>";
           div.style.width = '300px';
           div.style.height = '600px';
           div.style.backgroundColor = 'transparent';
